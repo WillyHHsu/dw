@@ -1,8 +1,8 @@
 # dw
 
-<h2> comece abrindo o case_guide.ipynb por favor
+<h2> comece abrindo o case_guide.ipynb por favor <h2/>
 
-<h5> Estrutura de pastas
+<h5> Estrutura de pastas<h5/> 
 
 /database - aqui fica o docker compose. Delete a pasta data caso queira ver os inserts <br /> 
 /img - imagens usadas no notebook para explicação <br /> 
