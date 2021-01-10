@@ -11,3 +11,6 @@
 .create_table.ipynb - create e insert nas tabelas <br /> 
 .kinda_bus_matrix.xlsx - excel tipo bus matrix parar ajduar na modelagem <br /> 
 .query_results.csv - resultado dos dados finais <br /> 
+
+
+ppt: https://docs.google.com/presentation/d/1ICNV14oAAA79YW_ka06tZXI9GMQmT3kusRYDirCdPdM/edit?usp=sharing
